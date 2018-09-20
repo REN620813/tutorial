@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp-2018/tutorial.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp-2018/tutorial)
+[![Build Status](https://travis-ci.org/REN620813/tutorial.svg?branch=master)](https://travis-ci.org/REN620813/tutorial)
 
 # 今回の問題
 
@@ -31,7 +31,7 @@ main.c ファイルだけを書き換えて下さい。
 ## 入力される値
 入力は以下のフォーマットで与えられます。
 ~~~
-str
+Hello world！
 ~~~
 * str: 入力される文字列
 
